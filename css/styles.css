@@ -1,0 +1,58 @@
+/***** SERIE****/
+body {
+  background-color: #DFDFDE;
+}
+
+p {
+  color: #FFEEEE;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #243D25;
+}
+
+.feature-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 5rem;
+  height: 4rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: .75rem;
+}
+
+.text-l {
+  text-align: right;
+  margin: 20px 10px;
+}
+
+#navbar {
+  background-color: #243D25;
+  padding: 3% 7%;
+}
+
+#title {
+  background-color: #DFDFDE;
+  text-align: left;
+  font-family: 'Montserrat-Black';
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#footer {
+  background-color: #243D25;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  color: #FFEEEE;
+}
